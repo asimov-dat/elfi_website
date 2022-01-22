@@ -1,10 +1,10 @@
-##Project: Refine ELFI
+## Project: Refine ELFI
 
 - Copy INFO from original website
 
 - Recreate Website
 
-#TO ADD
+# TO ADD
 
 - Calender filled with latest news, list of everything for the current day
     
@@ -16,11 +16,11 @@
     - News
     - Possibly store Authorized users (Employees of the school)
 
-#Website Design
+# Website Design
 
 - Look for html/css templates online to base off
 
-#Frameworks
+# Frameworks
 
 - Front-end: React
 
@@ -28,12 +28,12 @@
     - Database
         - Option 1: SQLALCHEMY
 
-#Deployment of Website
+# Deployment of Website
 
 - Everything stored in Rasberry Pi (Testing purposes)
 
 
-#TODO
+# TODO
 
 - Make git and notion repos
 
@@ -41,8 +41,8 @@
 
 - Get images from website to git
 
-#Chris
+# Chris
 
-#Both
+# Both
 
 - Find templates and idea of how to design website
