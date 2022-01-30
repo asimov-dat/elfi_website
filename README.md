@@ -42,7 +42,7 @@
 - [x] Get images from website to git
 
 ## Chris
-- [] barebomnes
+- [ ] barebomnes
 ## Both
 
 - Find templates and idea of how to design website
