@@ -37,12 +37,12 @@
 
 - Make git and notion repos
 
----David---
+## David
 
-- Get images from website to git
+- [x] Get images from website to git
 
 ## Chris
-
+- [] barebomnes
 ## Both
 
 - Find templates and idea of how to design website
